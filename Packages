@@ -1,0 +1,14 @@
+Package: (com.yourname.packagename)
+Name: (tublortatoo) 
+Version: (1.0)
+Size: (300)
+Architecture: iphoneos-arm
+Description: (Tublortatoo is a tweak that I stayed up 2 nights straight to build and remember show some love)
+Maintainer: (Austinindustries) <belabe287856@gmail.com>
+Author: (Austinindustries) <belabe287856@gmail.com>
+Section: (Themes)
+MD5sum:
+SHA1sum:
+SHA256sum:
+Filename: debs//com.yourepo.thebelaberepo.tublortatoo_iphoneos-arm.deb
+
